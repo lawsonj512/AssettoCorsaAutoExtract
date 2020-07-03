@@ -1,0 +1,3 @@
+pip install zipfile
+pip install py7zr
+pip install pyunpack
