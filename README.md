@@ -12,4 +12,6 @@ Download your favourite mods to your mod folder. The python script will then aut
 
 5. There will also be a text file called modpath.txt. This is where you will put your path to your downloaded Mods. Make sure you don't put any other compressed files in here.
 
-4. Run the script by type ```python3 main.py``` into CMD.
+6. Run the script by type ```python3 main.py``` into CMD.
+
+7. If you require the ```main.py``` to run at startup then run the file ```runatstartup.py```. This NEEDS to be run as Admin.
